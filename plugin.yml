@@ -1,0 +1,7 @@
+---
+name: Minion_v2
+main: DaPigGuy\PiggyMinions\PiggyMinions
+version: 1.0.0
+api: 3.22.2
+author: Prince
+...
